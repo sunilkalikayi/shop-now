@@ -1,0 +1,32 @@
+.offer_card_sec{
+    padding: 0px 78px ;
+    display: flex;
+    flex-direction: row;
+    gap: 64px;
+}
+.offer_card{
+    width: 50%;
+    height: 420px;
+    padding: 180px;
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.offer_card_title{
+    font-size: 32px;
+    font-weight: 600;
+}
+.offer_card_des{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+.offer_card_btn{
+    background-color: #fff;
+    color: #024E82;
+    padding:14px 32px ;
+}

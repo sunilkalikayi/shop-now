@@ -1,0 +1,29 @@
+.hero_comp{
+    position: relative;
+}
+.hero_img{
+    height: 648px;
+    width: 100%;
+}
+.hero_contnent_sec{
+    position: absolute;
+    right: 168px;
+    bottom: 25%;
+    text-align: center;
+}
+.hero_comp_title{
+    font-size: 48px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.hero_comp_btn{
+    color:#fff;
+    background-color: transparent;
+    border: 5px solid #fff;
+    padding: 18px 36px;
+    font-size: 21px;
+    font-weight: 700;
+    margin-top: 64px;
+
+}

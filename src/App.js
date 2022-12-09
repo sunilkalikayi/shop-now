@@ -1,11 +1,12 @@
 import React from "react";
-import Navbar from "./components/navbar/Navbar"
+import HomaPage from "./pages/HomePage";
+
 function App() {
-  return (
-    <div>
-     <Navbar/> 
-    </div>
-     );
+    return (
+        <div>
+            <HomaPage />
+        </div>
+    );
 }
 
 export default App;

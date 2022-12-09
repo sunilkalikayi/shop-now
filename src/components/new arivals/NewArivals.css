@@ -1,0 +1,21 @@
+.new_arivals_sec{
+    text-align: center;
+    padding: 45px 64px;
+}
+.new_arivals_title{
+    font-size: 36px;
+    font-weight: 700;
+}
+.new_arivals_title_des{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 16px;
+}
+.new_arivals_products{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
